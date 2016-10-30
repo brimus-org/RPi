@@ -38,5 +38,4 @@
  https://github.com/pimoroni/eagle.git
  https://github.com/pimoroni/node-red-nodes.git
  https://github.com/pimoroni/node-explorer-hat.git
- https://github.com/pimoroni/node-explorer-hat.git
  
