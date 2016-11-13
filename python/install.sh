@@ -6,13 +6,20 @@ do
 	git clone $i
 done
 
-for i in `ls | grep Adafruit`
+for i in `find . -maxdepth 1 -type d`
 do
         echo $i
-        cd $i || exit 1
-        git pull
-        sudo python setup.py install
-        sudo python3 setup.py install
-        cd ..
+        if [ "$i" = "." ]
+        then
+                echo "skipping \".\""
+        else
+                cd $i || exit 1
+                git pull
+                if [ -f setup.py ]
+                then
+                        sudo python setup.py install
+                fi
+#        sudo python3 setup.py install
+                cd ..
+        fi
 done
-
