@@ -26,16 +26,16 @@
  https://github.com/adafruit/Adafruit_Python_SSD1306 
  https://github.com/adafruit/Adafruit_Python_TMP 
  https://github.com/adafruit/io-client-python
- https://github.com/pimoroni/explorer-hat.git
- https://github.com/ControlEverythingCommunity/MCP9808.git
- https://github.com/ControlEverythingCommunity/SI7021.git
- https://github.com/ControlEverythingCommunity/ADS1115.git
- https://github.com/ControlEverythingCommunity/TSL2561.git
- https://github.com/ControlEverythingCommunity/MCP23008_8-Channel.git
- https://github.com/ControlEverythingCommunity/MCP23017_16-Channel.git
- https://github.com/pimoroni/explorer-hat.git
- https://github.com/pimoroni/get.git
- https://github.com/pimoroni/eagle.git
- https://github.com/pimoroni/node-red-nodes.git
- https://github.com/pimoroni/node-explorer-hat.git
+ https://github.com/pimoroni/explorer-hat
+ https://github.com/ControlEverythingCommunity/MCP9808
+ https://github.com/ControlEverythingCommunity/SI7021
+ https://github.com/ControlEverythingCommunity/ADS1115
+ https://github.com/ControlEverythingCommunity/TSL2561
+ https://github.com/ControlEverythingCommunity/MCP23008_8-Channel
+ https://github.com/ControlEverythingCommunity/MCP23017_16-Channel
+ https://github.com/pimoroni/explorer-hat
+ https://github.com/pimoroni/get
+ https://github.com/pimoroni/eagle
+ https://github.com/pimoroni/node-red-nodes
+ https://github.com/pimoroni/node-explorer-hat
  
