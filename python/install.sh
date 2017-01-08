@@ -1,10 +1,10 @@
 #!/bin/bash
 set -x
 
-#for i in `cat AF.txt`
-#do
-#	git clone $i
-#done
+for i in `cat AF.txt`
+do
+	git clone $i
+done
 
 #for i in `ls | grep Adafruit`
 for i in `find . -maxdepth 1 -type d`
