@@ -1,0 +1,23 @@
+{
+  "name": "waterheater",
+  "version": "1.0.0",
+  "description": "To control my water heater",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "waterheater"
+  ],
+  "author": "Brian Walton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gpio": "^0.2.7",
+    "parse-json": "^2.2.0",
+    "raspi-gpio": "^3.0.0",
+    "si7021-sensor": "0.0.7",
+    "wiring-pi": "^2.2.1"
+  }
+}
