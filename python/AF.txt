@@ -4,7 +4,6 @@
  https://github.com/adafruit/Adafruit_Python_BMP 
  https://github.com/adafruit/Adafruit_Python_CharLCD 
  https://github.com/adafruit/Adafruit_Python_DHT 
- https://github.com/adafruit/Adafruit_Python_DHT 
  https://github.com/adafruit/Adafruit_Python_GPIO 
  https://github.com/adafruit/Adafruit_Python_LED_Backpack 
  https://github.com/adafruit/Adafruit_Python_WS2801 
