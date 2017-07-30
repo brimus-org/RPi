@@ -38,4 +38,5 @@
  https://github.com/pimoroni/eagle
  https://github.com/pimoroni/node-red-nodes
  https://github.com/pimoroni/node-explorer-hat
+ https://github.com/ControlEverythingCommunity/CE_PYTHON_LIB.git
  
