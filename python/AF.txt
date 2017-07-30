@@ -3,7 +3,6 @@
  https://github.com/adafruit/Adafruit_Python_ADXL345 
  https://github.com/adafruit/Adafruit_Python_BMP 
  https://github.com/adafruit/Adafruit_Python_CharLCD 
- https://github.com/adafruit/Adafruit_Python_CharLCD 
  https://github.com/adafruit/Adafruit_Python_DHT 
  https://github.com/adafruit/Adafruit_Python_DHT 
  https://github.com/adafruit/Adafruit_Python_GPIO 
@@ -26,7 +25,6 @@
  https://github.com/adafruit/Adafruit_Python_SSD1306 
  https://github.com/adafruit/Adafruit_Python_TMP 
  https://github.com/adafruit/io-client-python
- https://github.com/pimoroni/explorer-hat
  https://github.com/ControlEverythingCommunity/MCP9808
  https://github.com/ControlEverythingCommunity/SI7021
  https://github.com/ControlEverythingCommunity/ADS1115
