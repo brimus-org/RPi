@@ -31,7 +31,6 @@
  https://github.com/ControlEverythingCommunity/TSL2561
  https://github.com/pimoroni/eagle
  https://github.com/pimoroni/explorer-hat
- https://github.com/pimoroni/get
  https://github.com/pimoroni/node-explorer-hat
  https://github.com/pimoroni/node-red-nodes
 
