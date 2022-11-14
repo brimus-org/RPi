@@ -46,9 +46,9 @@ cTemp = ((data0 * 256 + data1) * 175.72 / 65536.0) - 46.85
 fTemp = cTemp * 1.8 + 32
 
 # Output data to screen
-print "Relative Humidity is : %.2f %%" %humidity
-print "Temperature in Celsius is : %.2f C" %cTemp
-print "Temperature in Fahrenheit is : %.2f F" %fTemp
+print( "Relative Humidity is : %.2f %%" %humidity)
+print( "Temperature in Celsius is : %.2f C" %cTemp)
+print( "Temperature in Fahrenheit is : %.2f F" %fTemp)
 
 aio.send('bath', "%.2f" %fTemp)
 aio.send('bath_hum', "%.2f" %humidity)
