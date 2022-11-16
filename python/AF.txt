@@ -33,6 +33,7 @@
  https://github.com/pimoroni/eagle
  https://github.com/pimoroni/explorer-hat
  https://github.com/pimoroni/node-explorer-hat
+ https://github.com/pimoroni/fourletter-phat
  https://github.com/pimoroni/node-red-nodes
  https://github.com/pimoroni/speaker-phat
  
