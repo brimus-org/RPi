@@ -41,3 +41,5 @@
  https://github.com/pimoroni/node-red-nodes
  https://github.com/pimoroni/speaker-phat
  https://github.com/geeekpi/dockerpi
+ https://github.com/dhylands/python_lcd
+ 
