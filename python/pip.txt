@@ -22,3 +22,6 @@ adafruit-circuitpython-featherwing
 adafruit-circuitpython-adafruitio
 adafruit-circuitpython-tsl2561
 adafruit-circuitpython-mcp230xx
+adafruit-blinka
+python3-pil
+python3-numpy
