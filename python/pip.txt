@@ -14,7 +14,6 @@ adafruit-circuitpython-requests
 adafruit-circuitpython-minimqtt
 adafruit-circuitpython-azureiot
 adafruit-circuitpython-ssd1306
-asyncio
 adafruit-circuitpython-irremote
 adafruit-circuitpython-rfm9x
 adafruit-circuitpython-ble
@@ -24,5 +23,7 @@ adafruit-circuitpython-adafruitio
 adafruit-circuitpython-tsl2561
 adafruit-circuitpython-mcp230xx
 adafruit-blinka
+asyncio
 python3-pil
 python3-numpy
+python_lcd
