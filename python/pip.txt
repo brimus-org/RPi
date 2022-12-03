@@ -13,6 +13,7 @@ adafruit-circuitpython-tsl2591
 adafruit-circuitpython-requests
 adafruit-circuitpython-minimqtt
 adafruit-circuitpython-azureiot
+adafruit-circuitpython-ssd1306
 asyncio
 adafruit-circuitpython-irremote
 adafruit-circuitpython-rfm9x
