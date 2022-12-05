@@ -25,7 +25,8 @@
  https://github.com/adafruit/Adafruit_CircuitPython_SSD1306
  https://github.com/adafruit/Adafruit_CircuitPython_HT16K33
  https://github.com/adafruit/Adafruit_CircuitPython_CharLCD
-  https://github.com/adafruit/Adafruit_CircuitPython_MCP9808
+ https://github.com/adafruit/Adafruit_CircuitPython_MCP9808
+ https://github.com/adafruit/Adafruit_Circuitpython_CAP1188
  https://github.com/adafruit/io-client-python
  https://github.com/ControlEverythingCommunity/ADS1115
  https://github.com/ControlEverythingCommunity/CE_PYTHON_LIB.git
